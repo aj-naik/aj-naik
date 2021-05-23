@@ -24,7 +24,7 @@
 <!--[<img align="left" alt="Aj" height="22px" src="./SocialLogo/Web.png" />][website]
 [<img align="left" alt="Aj | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin] -->
 
-<h3 align="center">Languages and Tools I Use:</h2>
+<h3 align="center">Languages and Tools I use:</h2>
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
