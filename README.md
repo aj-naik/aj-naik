@@ -13,7 +13,7 @@
 2. GraphML
 3. Social Network Analysis
 
-- 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the aspects in ML I am interested in working on.
+- 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the most important aspects in ML I am interested in working on and one which will benefit me greatly.
 
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
