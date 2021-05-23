@@ -5,13 +5,18 @@
 **aj-naik/aj-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Neural Machine Translation, Conversational Chatbot and my engineering project!
+
 - 🌱 I’m currently learning Fullstack and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
+
 - 👯 Domains I would like to explore more (In no particular order): 
 1. GANs
 2. GraphML
 3. Social Network Analysis
+
 - 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the aspects in ML I am interested in working on.
+
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
+
 - ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games. Also Food. I mean... Who doesn't like good food xD ?
 
 <h2 align="center" style="border-bottom : none">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
