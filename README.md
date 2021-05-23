@@ -81,14 +81,10 @@
 
 ---
 
-_NOTE: Top languages do not indicate my skill level or something like that, it's just a github metric of the languages i use more often_
+_NOTE: Top languages do not indicate my skill level or anything like that, it's just a github metric of the languages i use more often_
 
-<a href="https://github.com/aj-naik">
-<img align="center" alt="Ajinkya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aj-naik&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-
-<a href="https://github.com/aj-naik">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aj-naik&layout=compact&theme=radical" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=aj-naik&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-naik&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/CaptainArnav/github-readme-stats)
 
 ---
 
