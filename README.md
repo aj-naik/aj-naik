@@ -90,7 +90,7 @@ _NOTE: Top languages do not indicate my skill level or anything like that, it's 
 
 ---
 
-<p align=center>                           
+<p align=center> Number of People who had a look at my profile                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors">                     
 </p>
 
