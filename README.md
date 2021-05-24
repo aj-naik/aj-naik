@@ -19,14 +19,22 @@
 
 - ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games. Also Food. I mean... Who doesn't like good food xD ?
 
-<h2 align="center" style="border-bottom : none">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
+<h2 align="center">My Tech Stack:</h2>
 
-<!--[<img align="left" alt="Aj" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Aj | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin] -->
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code> <img height="50" src="https://img.icons8.com/color/240/000000/css3.png"></code>
+<code> <img height="50" src="https://img.icons8.com/color/240/000000/javascript.png"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code> <img height="50" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code> 
 
-<h3 align="center">Languages and Tools I use:</h2>
+<code> <img height="50" src="https://img.icons8.com/color/240/000000/react-native.png"></code> 
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 
-[<code>
+<!--[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
@@ -82,16 +90,27 @@
 </code>](https://ubuntu.com/)
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</code>](https://www.kernel.org/) 
+-->
 
 ---
 
-_NOTE: Top languages do not indicate my skill level or anything like that, it's just a github metric of the languages i use more often_
+_NOTE: Dependency files in some projects are also counted, so 'Most Used' languages might not be an entirely accurate metric of the languages I use frequently. Nor does it represent my skill level in a particular language._
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=aj-naik&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-naik&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/CaptainArnav/github-readme-stats)
+<br><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br><br><br><br>
+
+
 
 ---
+
+<h2 align="center" style="border-bottom : none">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
+
+[<img align="left" alt="Aj" height="22px" src="./SocialLogo/Web.png" />][website]
+[<img align="left" alt="Aj | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin] 
+
 
 ---
 
@@ -100,3 +119,6 @@ _NOTE: Top languages do not indicate my skill level or anything like that, it's 
 </p>
 
 ---
+
+[website]: https://github.com
+[linkedin]: https://www.linkedin.com/in/ajinkya-naik-797144173/
