@@ -30,9 +30,10 @@
 <code> <img height="50" src="https://img.icons8.com/color/240/000000/javascript.png"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code> <img height="50" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code> 
-
 <code> <img height="50" src="https://img.icons8.com/color/240/000000/react-native.png"></code> 
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+
 
 <!--[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
