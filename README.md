@@ -1,4 +1,4 @@
-<h2 align="center">"Anyone who stops learning is old, whether at twenty or eighty."</h2>
+<h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
 <h3 align="center" style="border-bottom : none">Hey there, I'm Ajinkya! 👋</h3>
 <p align="center">I'm an Undergrad Student with a goal of working/doing research in the field of AI</p>
 <!--
