@@ -34,6 +34,10 @@
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 
+<h2 align="center">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
+
+[<img align="left" alt="Aj" height="22px" src="./SocialLogo/Web.png" />][https://github.com]
+[<img align="left" alt="Aj | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][https://www.linkedin.com/in/ajinkya-naik-797144173/]
 
 <!--[<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -94,32 +98,18 @@
 </code>](https://www.kernel.org/) 
 -->
 
----
+
+<h2 align="center">GitHub Stats:</h2>
 
 _NOTE: Dependency files in some projects are also counted, so 'Most Used' languages might not be an entirely accurate metric of the languages I use frequently. Nor does it represent my skill level in a particular language._
 
 <br><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&hide=issues&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br>
-
-
-
----
-
-<h2 align="center" style="border-bottom : none">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h3>
-
-[<img align="left" alt="Aj" height="22px" src="./SocialLogo/Web.png" />][website]
-[<img align="left" alt="Aj | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin] 
-
-
----
 
 <p align=center> Number of People who visited my profile                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors">                     
 </p>
 
----
 
-[website]: https://github.com
-[linkedin]: https://www.linkedin.com/in/ajinkya-naik-797144173/
