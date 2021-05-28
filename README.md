@@ -33,6 +33,8 @@
 <code> <img height="50" src="https://img.icons8.com/color/240/000000/react-native.png"></code> 
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code> <img height="50" src="./SocialLogo/download.png"></code>
+<code> <img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 
 
 <h2 align="center">GitHub Stats:</h2>
