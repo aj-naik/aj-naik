@@ -43,7 +43,7 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 
 <br><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&hide=issues&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br>
 
 <h2 align="center">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
