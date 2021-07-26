@@ -21,8 +21,8 @@
 
 <h2 align="center">My Tech Stack:</h2>
 
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+<code> <img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code> <img height="50" src="/SocialLogo/download.jpg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
