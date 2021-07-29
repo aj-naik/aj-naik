@@ -42,10 +42,16 @@
 _NOTE: Dependency files in some projects are also counted, so 'Most Used' languages might not be an entirely accurate metric of the languages I use frequently. Nor does it represent my skill level in a particular language._
 
 <br><br>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=aj-naik&theme=darkhub&column=7&margin-w=50&margin-h=50" alt="aj-naik"/></p>
+
+<br><br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aj-naik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aj-naik&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br>
 
+<p><img aligh="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aj-naik&theme=chartreuse-dark" alt="aj-naik" width="410" /></p>
+
+<br>
 <h2 align="center">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
 
 <p align = "center">
@@ -56,4 +62,5 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 </p>
 
 <br>                       
-<p align=center>Number of profile <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors"> </p>                 
+<p align=center>Number of profile <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors"> </p> 
+
