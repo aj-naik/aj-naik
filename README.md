@@ -4,7 +4,7 @@
 <!--
 **aj-naik/aj-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on Neural Machine Translation, Conversational Chatbot and my engineering project!
+- 🔭 I’m currently working on Neural Machine Translation, Conversational Chatbot and Facial Recognition!
 
 - 🌱 I’m currently learning Fullstack and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
 
