@@ -21,20 +21,26 @@
 
 <h2 align="center">My Tech Stack:</h2>
 
-<code> <img height="50" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code> <img height="50" src="/SocialLogo/download.jpg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code> <img height="50" src="https://img.icons8.com/color/240/000000/css3.png"></code>
-<code> <img height="50" src="https://img.icons8.com/color/240/000000/javascript.png"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code> <img height="50" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code> 
-<code> <img height="50" src="https://img.icons8.com/color/240/000000/react-native.png"></code> 
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code> <img height="50" src="./SocialLogo/download.png"></code>
-<code> <img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
+<code> ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)</code>
+<code> ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)</code>
+<code> ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java) </code>
+<code> ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)</code>
+<code> ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) </code>
+<code> ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) </code>
+<code> ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)</code>
+<code> ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) </code>
+<code> ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)</code>
+<code> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) </code>
+<code> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) </code>
+<code> ![JS](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript) </code>
+<code> ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react) </code>
+<code> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) </code>
+<code> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) </code>
+<code> 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) </code>
+<code> 	![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
+<code> 	![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
+<code> 	![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) </code>
+<code> 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) </code>
 
 
 <h2 align="center">GitHub Stats:</h2>
