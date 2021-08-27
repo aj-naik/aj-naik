@@ -42,7 +42,7 @@
 <code> 	![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) </code>
 <code> 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) </code>
 <code> ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) </code>
-
+<code> ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) </code> 
 
 <h2 align="center">GitHub Stats:</h2>
 
