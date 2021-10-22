@@ -16,7 +16,7 @@
 - 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the most important aspects in ML I am interested in working on.
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
-- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games. Also Food. I mean... Who doesn't like good food xD ?
+- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games. Also Food. I mean... Who doesn't like good food? xD 
 
 <h2 align="center">My Tech Stack:</h2>
 
@@ -39,6 +39,7 @@
 <code> 	![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
 <code> 	![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
 <code> 	![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) </code>
+<code> 	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) </code>
 <code> 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) </code>
 <code> ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) </code>
 <code> ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) </code> 
