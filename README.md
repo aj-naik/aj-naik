@@ -35,15 +35,16 @@
 <code> ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react) </code>
 <code> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) </code>
 <code> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) </code>
-<code> 	![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) </code>
-<code> 	![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
-<code> 	![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
-<code> 	![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) </code>
-<code> 	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) </code>
-<code>  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) </code>
-<code> 	![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) </code>
+<code> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) </code>
+<code> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) </code>
+<code> ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) </code>
+<code> ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) </code>
+<code> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) </code>
+<code> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) </code>
+<code> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) </code>
 <code> ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) </code>
 <code> ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) </code> 
+<code> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)</code>
 
 <h2 align="center">GitHub Stats:</h2>
 
