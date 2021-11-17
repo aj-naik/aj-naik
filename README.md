@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Neural Machine Translation, Conversational Chatbot and Facial Recognition!
 
-- 🌱 I’m currently learning Fullstack and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
+- 🌱 I’m currently learning Fullstack Software Development and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
 
 - 👯 Domains I would like to explore more (In no particular order): 
 1. GANs
