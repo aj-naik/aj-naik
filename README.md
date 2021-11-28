@@ -53,7 +53,7 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 <br><br>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=aj-naik&theme=darkhub&column=7&margin-w=50&margin-h=50" alt="aj-naik"/></p>
 
-<br><br>
+<br><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ajnaik&layout=compact&theme=chartreuse-dark" alt="ajnaik" width="410"/></p>
 
