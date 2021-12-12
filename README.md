@@ -74,7 +74,7 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<h2 align="center">Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
+<h2 align="center">Contact <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
 
 <p align = "center">
 <a href="https://www.linkedin.com/in/ajinkya-naik-797144173/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="aj-naik" height="30" width="40"/> </a>  
