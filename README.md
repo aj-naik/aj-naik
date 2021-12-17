@@ -32,6 +32,7 @@
 <code> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) </code>
 <code> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) </code>
 <code> ![JS](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript) </code>
+<code> ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) </code>
 <code> ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react) </code>
 <code> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) </code>
 <code> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) </code>
