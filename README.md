@@ -34,6 +34,7 @@
 <code> ![JS](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript) </code>
 <code> ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) </code>
 <code> ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react) </code>
+<code> ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) </code>
 <code> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) </code>
 <code> ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) </code>
 <code> ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) </code>
