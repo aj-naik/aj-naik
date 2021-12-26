@@ -16,7 +16,7 @@
 - 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the most important aspects in ML I am interested in working on.
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
-- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games. Also Food. I mean... Who doesn't like good food? xD 
+- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games and food
 
 <h2 align="center">My Tech Stack:</h2>
 
