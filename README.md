@@ -16,18 +16,22 @@
 - 🥅 2021 Goals: Learn more about MLOps and deploy ML models. Most of the ML projects live and die in a Jupyter notebook. Getting code into production is one of the most important aspects in ML I am interested in working on.
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
-- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games and food
+- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games and food xD!
 
 <h2 align="center">My Tech Stack:</h2>
 
 <code> ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)</code>
 <code> ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)</code>
+<code> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)</code>
+<code> ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)</code>
+<code> ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) </code>
 <code> ![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java) </code>
 <code> ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)</code>
 <code> ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032) </code>
 <code> ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) </code>
 <code> ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)</code>
 <code> ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) </code>
+<code> ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)</code>
 <code> ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)</code>
 <code> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) </code>
 <code> ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) </code>
