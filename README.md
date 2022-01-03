@@ -80,6 +80,7 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+<!--
 <h2 align="center">Contact <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></h2>
 
 <p align = "center">
@@ -87,8 +88,8 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 <a href="https://github.com" target="blank"><img align="center" src="./SocialLogo/Web.png" alt="aj-naik" height="30" width="30"/> </a>  
 <a href="https://discord.com/users/a2j0#9852" target="blank"><img align="center" src="./SocialLogo/Discord-Logo-Color.png" alt="aj-naik" height="30" width="30"/> </a> 
 <a href = "mailto: ajinkyanaik13@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /> </a>
-</p>
+</p> 
 
-<br>                       
+<br> -->p                    
 <p align=center>Number of profile <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors"> </p> 
 
