@@ -16,7 +16,7 @@
 - 🥅 2022 Goals: Learn full stack development and deploying ML models through mobile and web apps. Also look into scalability of the deployed solutions
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
-- ⚡ Fun fact: I am a huge History nerd! Love playing guitar and video games and food xD!
+- ⚡ Facts about me: I am a huge History nerd! Love playing guitar and video games and food xD!
 
 <h2 align="center">My Tech Stack:</h2>
 
