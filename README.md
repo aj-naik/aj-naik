@@ -1,5 +1,5 @@
 <h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
-<h3 align="center" style="border-bottom : none">Hey there, I'm Ajinkya! 👋</h3>
+<h3 align="center" style="border-bottom : none">Hey there, I'm AJ! 👋</h3>
 <p align="center">I'm an Undergrad Student with a goal of working/doing research in the field of AI</p>
 <!--
 **aj-naik/aj-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
