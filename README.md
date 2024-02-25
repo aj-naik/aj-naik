@@ -1,19 +1,17 @@
 <h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
 <h3 align="center" style="border-bottom : none">Hey there, I'm AJ! 👋</h3>
-<p align="center">I'm an Undergrad Student with a goal of working/doing research in the field of AI</p>
+<p align="center">I'm a working professional with a goal of working/doing research in the field of AI</p>
 <!--
 **aj-naik/aj-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on Neural Machine Translation, Conversational Chatbot and Facial Recognition!
-
-- 🌱 I’m currently learning Fullstack Software Development and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
+- 🌱 I’m currently working Fullstack Software Development and diving deep in the field of Data Science, ML/DL particularly in domains of NLP and Computer Vision
 
 - 👯 Domains I would like to explore more (In no particular order): 
 1. GANs
 2. GraphML
 3. Social Network Analysis
 
-- 🥅 2022 Goals: Learn full stack development and deploying ML models through mobile and web apps. Also look into scalability of the deployed solutions
+- 🥅 2024 Goals: Dive Deeper into applied AI with a special focus on leveraging AI to solve Indian problems
 - 💬 Things that fascinate me: The Universe, History, Philosophical debates on morals and ethics, Law
 
 - ⚡ Facts about me: I am a huge History nerd! Love playing guitar and video games and food xD!
