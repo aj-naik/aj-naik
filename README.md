@@ -1,4 +1,4 @@
-<h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
+<!-- <h2 align="center">"Tell me and I forget, teach me and I may remember, involve me and I learn."</h2>
 <h3 align="center" style="border-bottom : none">Hey there, I'm AJ! 👋</h3>
 <p align="center">I'm a working professional with a goal of working/doing research in the field of AI</p>
 <!--
@@ -80,4 +80,4 @@ _NOTE: Dependency files in some projects are also counted, so 'Most Used' langua
 
                 
 <p align=center>Number of profile <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=aj-naik.aj-naik" alt="Visitors"> </p> 
-
+ -->
